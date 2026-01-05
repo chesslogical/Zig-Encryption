@@ -1,5 +1,8 @@
 # keygen
 
+
+compiled on zig 0.15.1 
+
 A simple, deterministic key generator written in Zig that produces a pseudorandom byte stream of arbitrary length (1 byte to 20 GiB), derived from a user‑supplied password. Output is written to `key.key` in the current directory.
 
 ---
@@ -70,4 +73,5 @@ This ensures a single, continuous pseudorandom stream without simple repetition.
 ## License
 
 MIT License. Feel free to use and modify as you like.
+
 
