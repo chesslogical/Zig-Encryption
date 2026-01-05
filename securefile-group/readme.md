@@ -1,5 +1,7 @@
 # 🔐 securefile.zig
 
+compiled on zig 0.15.1
+
 A safe, in-place, streaming AES-256-GCM file encryption tool written in pure Zig.  
 Automatically detects whether a file is encrypted using a magic `"ZIGC"` header and performs encryption or decryption accordingly.
 
@@ -136,3 +138,4 @@ MIT — do what you want, just don't double encrypt 😄
 ---
 
 Happy Ziging! 🔐🦎
+
