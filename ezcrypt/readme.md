@@ -1,6 +1,9 @@
 
 # ezcrypt no key or password needed, variables can be changed at compile time. 
 
+
+Usage: ezcrypt <filename>
+
 - First run: Encrypts .
 - Second run: Decrypts it back to original.
 
@@ -30,4 +33,5 @@ MIT License. Feel free to use, modify, and distribute.
 
 
 Copyright (c) 2026 [Your Name or xAI]
+
 
