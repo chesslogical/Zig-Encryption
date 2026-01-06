@@ -1,4 +1,6 @@
 
+# ezcrypt no key or password needed, variables can be changed at compile time. 
+
 - First run: Encrypts `example.txt`.
 - Second run: Decrypts it back to original.
 
@@ -25,5 +27,6 @@
 ## License
 
 MIT License. Feel free to use, modify, and distribute.
+
 
 Copyright (c) 2026 [Your Name or xAI]
