@@ -2,7 +2,7 @@
 
 Zig is a modern low-level programming language that's well-suited for building efficient, safe, and portable encryption tools — especially when simplicity and performance matter. If you are too foolish to use Rust, zig is almost a good option :) 
 
-Zig is really cool — with just a few lines of code, you can do some incredibly powerful things. That said, I wish it had a larger development team. Right now, the Zig Software Foundation (a nonprofit) funds a small core group of paid contributors, but resources are limited compared to Rust. Zig still feels like it's in earlier stages of maturity, while Rust has massive corporate backing, millions in funding, and a huge developer community pouring effort into it. In the long run, objective reality  gives Rust the profound edge."
+Zig is really cool — with just a few lines of code, you can do some incredibly powerful things. That said, I wish it had a larger development team. Right now, the Zig Software Foundation (a nonprofit) funds a small core group of paid contributors, but resources are limited compared to Rust. Zig still feels like it's in earlier stages of maturity, while Rust has massive corporate backing, millions in funding, and a huge developer community pouring effort into it. In the long run, objective reality  gives Rust the profound edge. I would imagine the super small team who makes a yearly salary from the "nonprofit" is in no hurry to stop getting the yearly money. 
 
 ---
 
